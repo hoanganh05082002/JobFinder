@@ -1,0 +1,3 @@
+Bài học rút ra từ buổi học ngày 18/10/2023
+- Mỗi thành viên trong nhóm phải biết sử dụng SVN mà nhóm lựa chọn
+- Phải biết sử dụng các câu lệnh trong github
